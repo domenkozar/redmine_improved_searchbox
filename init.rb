@@ -1,3 +1,4 @@
+# encoding: UTF-8
 require_dependency 'redmine_improved_searchbox_hook_listener'
 
 Redmine::Plugin.register :redmine_improved_searchbox do
